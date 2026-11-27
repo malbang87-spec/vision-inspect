@@ -1,1 +1,2 @@
-asd.txt
+## 사용법
+bash count.sh
